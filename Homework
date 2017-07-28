@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<HTML>
+    <head> 
+    <title> Gozde's Page </title>
+    </head>
+    
+    <body>
+        <table>        
+                <img src="https://s-media-cache-ak0.pinimg.com/736x/e4/f1/ee/e4f1ee7e2521a353cb051404a720fa30--rabbit-drawing-rabbit-art.jpg" alt="rabbitlover" height="120" width="100" >
+                RABBITLOVERS
+        </table>
+        <br><br>
+        <ul>
+            <li> <a href="https://tr-tr.facebook.com/"> Go to Facebook </a> </li><br>
+            <li> <a href="https://www.instagram.com/?hl=tr"> Go to Instagram </a> </li><br>
+            <li> <a href="https://twitter.com/?lang=tr"> Go to Twitter </a> </li><br>
+             <li> <a href="  https://www.fizikist.com/profil/vita-brevis/"> Go to Fizikist </a> </li><br>
+          
+        </ul>
+        <br><br>
+        
+        <table> 
+        <tr>
+            <td><img src="https://s-media-cache-ak0.pinimg.com/736x/32/00/3b/32003bd128bebe99cb8c655a9c0f00f5--rabbit-baby-raising-rabbits.jpg" height="120" width="100"></td>
+            <td><img src="http://www.vet4life.co.uk/wp-content/uploads/2015/02/rabbit-family.jpg" height=120 width=160> </td>
+            <td><img src="https://biobazar.org.pl/wp-content/uploads/2016/03/bunny-1149060_640.jpg" height=120 width=120 ></td> 
+            <td><img src="http://wonderopolis.org/wp-content/uploads/2011/04/rabbit-on-white-background_shutterstock_64146802.jpg" height=120 width=150 ></td>
+        </tr>
+        <tr>
+            <td><img src="http://www.annamarikedvencei.eoldal.hu/img/picture/3/709rabbit.jpg" height="120" width="100"></td>
+            <td><img src="http://prod-upp-image-read.ft.com/bf331d1e-f909-11e6-bd4e-68d53499ed71" height=120 width=160> </td>
+            <td><img src="http://findonvet.com.au/portals/findonvet/Adelaide%20rabbit%20vet%20Findon_1.jpg" height=120 width=120 ></td> 
+            <td><img src="http://rabbitbreeders.us/supplies/wp-content/uploads/2016/09/Rabbit-Cage.jpg" height=120 width=150 ></td>
+        </tr>
+        <tr> 
+            
+            <td><img src="http://i.ndtvimg.com/i/2015-05/rabbit-generic-thinkstock-650_650x400_51432732851.jpg" height=120 width=120 ></td>
+            <td><img src="https://previews.123rf.com/images/claudiapaulussen/claudiapaulussen1402/claudiapaulussen140200002/25576167-brown-baby-rabbit-with-a-blue-birthday-hat-on-white-background-Stock-Photo.jpg" height=120 width=120 ></td>
+             <td><img src="https://weneedfun.com/wp-content/uploads/2016/02/Baby-Rabbit-9.jpg" height=120 width=120 ></td>
+            <td><img src="http://petlifecover.co.uk/wp-content/uploads/new-rabbit-2y05i5ljk5bgb2ci2w7uve.jpg" height=120 width=120 ></td>
+           </tr>
+        </table>
+        <br><br>
+
+        <hr>
+        <br><br>
+        
+        <h2> Classical Music Masters </h2>
+        <ol> 
+        <li><a href="https://www.youtube.com/watch?v=liTSRH4fix4&t=2546s"> </a> Chopin </li><br>
+        <li> <a href="https://www.youtube.com/watch?v=6JQm5aSjX6g"> </a> Bach  </li><br>
+        <li> <a href="https://www.youtube.com/watch?v=W-fFHeTX70Q"> </a> Beethoven </li><br>
+        <li> <a href="https://www.youtube.com/watch?v=GRxofEmo3HA"> </a> Vivaldi </li>
+        </ol> <br>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/GRxofEmo3HA" frameborder="0" allowfullscreen></iframe> <br><br>
+        
+        <hr>
+        
+        <h2> <b>Full Stack Developer</b> </h2>
+        
+        <p>Türkiyede çok sevilen, her işi yapabilen <i>developer</i> türüne verilen isim. Bazı startup şirketlerde projenin dinamosu, motoru, farı , vitesi herşeyi olabilmekteler. Bir gün çekip gitme ihtimallerine karşı iyi para, işte huzur, iş dışında huzur gibi faktörleri devreye sokmak gerektiren kişi.</p>
+        
+        bu kişilerin standart özellikleri: <br>
+        
+        <ul>
+        <li>serverın yazılımında ve hardwareinde herşeyinden anlarlar (cloud çıktığından artık hardware kısmı olmasa da olur)</li> 
+        <li>applicationdaki kod yazarlar</li>
+        <li>html/css bilirler , photoshopta tasarımı yaparlar</li>
+        <li>javascripti de çok iyi bilirler</li>
+        <li>veritabanını yönetirler</li>
+        </ul>
+
+        <p>e-ticaret, haber sitesi vs... gibi dört beş tane günlük hayatımızda sokaktaki insandan on kişiden üçünün ismini markasını bildiği, canlı projelerini bizzat gördüğüm, sayıları her geçen gün artmakta olan kişiler. özellikle bu kişilerden bir ekipte 3-4 tane olduğunda işler acayip iyi bir duruma geliyor, bu sefer ekibe giren diğer spesifik tek işle ilgilenen developerlar, dbciler, frontendciler vs... hayal kırıklığına uğruyorlar çünkü kimseye işi de elletmeyi sevmezler <em>FULL STACK</em> kişileri. </p>
+        
+        <hr> <br>
+        
+        <h3> Bana Ulaşın </h3> 
+        
+        <form>
+        İsim <br>
+            <input type="text"><br><br>
+        Telefon <br>
+            <input type="text"><br><br>
+        e-mail <br>
+            <input type="text"><br><br>
+    
+        <button> SUMBIT </button>
+        </form>
+        <hr>
+    <br><br><br>
+    </body>
+</HTML>
